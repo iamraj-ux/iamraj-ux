@@ -1,0 +1,6 @@
+{
+  "name": "Raj Expo Digitals Server",
+  "description": "Enterprise Personal Database & Server with Natasha v5.6 AI, Prompt Customization Studio, GitHub Sync, and Cloudinary Media Storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
